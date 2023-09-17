@@ -1,0 +1,14 @@
+{
+  "name": "nodemon",
+  "version": "1.0.0",
+  "description": "This is the best package",
+  "main": "tut1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "tanvi radia",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
