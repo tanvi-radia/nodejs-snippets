@@ -1,0 +1,4 @@
+// Node.js web server: To access web pages of any application, web server is needed.
+// Web server: will handle all HTTP requests of web application.
+// Apache is a web server for PHP.
+// Node.js provides capabilities to create our own web server which will handle all HTTP requests asynchronously.
