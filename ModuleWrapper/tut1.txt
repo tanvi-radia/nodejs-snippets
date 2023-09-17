@@ -1,0 +1,17 @@
+Module Wrapper func: Node.js will wrap a module's code with a wrapper function before it is executed.
+Code:
+
+(function(exports, require, module, __filename, __dirname) {
+   // Module code 
+});
+
+
+1. The variables and functions in the node.js are private to the module that has it. 
+2. The variables and functions are made private in node.js, using the node.js module wrapper function.
+
+Args in wrapper func:
+exports: refers to module.exports
+requires(id): parameter is a string that refers to the module name or path
+module: implies the current module that is executed
+__filename: implies the file name of the current module
+__dirname: refers to the directory name of the current module.
