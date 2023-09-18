@@ -1,6 +1,5 @@
 Module Wrapper func: Node.js will wrap a module's code with a wrapper function before it is executed.
 Code:
-
 (function(exports, require, module, __filename, __dirname) {
    // Module code 
 });
